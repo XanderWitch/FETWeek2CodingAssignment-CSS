@@ -1,0 +1,37 @@
+body {
+    background-color:lightskyblue;
+    text-align: center;
+}
+header {
+    font-family:helvetica;
+    text-align: center;
+}
+h1 {
+    color: blueviolet;
+}
+h2 {
+    color:blueviolet;
+}
+h5 {
+    color:darkslateblue;
+    font-style:italic;
+}
+.image-medium {
+    width: 45%;
+}
+#mid-width-rule {
+    height:7px;
+    width: 30%;
+    border-width:0;
+    color:blueviolet;
+    background-color:blueviolet;
+    border-radius:4px;
+}
+#wide-rule {
+    height:7px;
+    width: 50%;
+    border-width:0;
+    color:blueviolet;
+    background-color:blueviolet;
+    border-radius:4px;
+}
